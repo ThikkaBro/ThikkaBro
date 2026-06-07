@@ -1,28 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=0,1,2,3,4&text=Theekshana%20Sudeepa&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Engineer%20•%20AI%20Entrepreneur%20•%20Product%20Builder&descAlignY=65&descSize=16&descColor=D0D7DE"/>
+# THIKKA
 
-<br><br>
+### AI • SaaS • E-Commerce
 
-<h3>Building AI-powered products that transform ideas into scalable businesses.</h3>
+Building products that transform ideas into scalable businesses.
 
 <br>
 
 <a href="https://thikka.me">
-  <img src="https://img.shields.io/badge/Website-thikka.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-thikka.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
+<a href="https://linkedin.com/in/theekshana-sudeepa-130321290">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:theekshanasudeepa4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/theekshana-sudeepa-130321290/?skipRedirect=true">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ffffff&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1500&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+AI-powered+products.;Launching+global+SaaS+businesses.;Creating+digital+experiences+at+scale.;From+Sri+Lanka+to+the+world." />
 
 </div>
 
@@ -30,48 +28,38 @@
 
 ## About
 
-Undergraduate Software Engineer, AI Builder, and Entrepreneur from Sri Lanka.
+I'm **Theekshana Sudeepa**, a Software Engineering undergraduate, AI builder, and entrepreneur from Sri Lanka.
 
-I build modern software products across artificial intelligence, SaaS, automation, cloud infrastructure, and startup ecosystems.
+I focus on building modern software products across artificial intelligence, SaaS, automation, cloud infrastructure, and e-commerce systems.
 
-My goal is simple:
-
-**Turn ambitious ideas into scalable products used by people worldwide.**
+My work combines engineering, product design, business strategy, and execution to turn ambitious ideas into products used by real people.
 
 ---
 
-## Focus
+## Current Focus
 
 ```txt
-BUILDING  → AI Products
-SHIPPING  → SaaS Platforms
-LEARNING  → Emerging Technologies
-SCALING   → Global Digital Businesses
+BUILDING    AI Products
+SHIPPING    SaaS Platforms
+SCALING     Digital Businesses
+EXPLORING   Automation & Agents
 ```
 
 ---
 
-## Selected Technologies
+## Tech
 
 ```txt
-Frontend    React • Next.js • TypeScript • Tailwind CSS
+Frontend     React • Next.js • TypeScript • Tailwind CSS
 
-Backend     Node.js • PHP • PostgreSQL • MySQL • Redis
+Backend      Node.js • PHP • PostgreSQL • MySQL
 
-Cloud       AWS • Docker • Linux • Vercel
+Cloud        AWS • Docker • Linux • Vercel
 
-AI          OpenAI • AI Agents • Automation Systems
+AI           OpenAI • AI Agents • Automation
 
-Hardware    Arduino • ESP32 • PCB Design • IoT
+Hardware     Arduino • ESP32 • PCB Design
 ```
-
----
-
-## Philosophy
-
-> Great software is not measured by complexity.
->
-> It is measured by the value it creates, the problems it solves, and the people it empowers.
 
 ---
 
@@ -79,9 +67,17 @@ Hardware    Arduino • ESP32 • PCB Design • IoT
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThikkaBro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thikkabro&show_icons=true&hide_border=true&theme=transparent&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThikkaBro&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thikkabro&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=thikkabro&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -91,48 +87,40 @@ Hardware    Arduino • ESP32 • PCB Design • IoT
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThikkaBro&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thikkabro&bg_color=0d1117&color=60A5FA&line=60A5FA&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+## Featured Work
 
 <div align="center">
 
-![snake gif](https://github.com/ThikkaBro/blob/output/github-contribution-grid-snake-dark.svg)
+Replace these with your best repositories.
 
 </div>
 
 ---
 
-## Featured Projects
+## Philosophy
 
-<div align="center">
-
-<a href="https://github.com/ThikkaBro/PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=transparent&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ThikkaBro/PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=transparent&hide_border=true"/>
-</a>
-
-</div>
+> Build.
+>
+> Ship.
+>
+> Learn.
+>
+> Scale.
 
 ---
 
 <div align="center">
 
-### From Sri Lanka 🇱🇰 Building for the World
+### THIKKA
 
-<br>
+Building for a global audience from Sri Lanka 🇱🇰
 
 **https://thikka.me**
-
-<br>
-
-*"Build. Ship. Learn. Scale."*
 
 </div>
